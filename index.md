@@ -5,11 +5,21 @@ Here, we bring together resources for fun online learning games oriented toward 
 
 For many of these games you will need Flash Player installed with the browser you use. You can find Flash player installation [here](get.adobe.com/flashplayer/)
 
-### 
-[editor on GitHub](https://github.com/gameplanT/gameplanT.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Plant Life Cycle
+In the [Plant Life Cycle](https://www.turtlediary.com/game/grow-a-plant.html) game, you can grow your own virtual plant! Sponsored by [Turtle diaries], this game will teach you about the different parts of plants, how they contribute to plant function and life cycle!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![PLC_image](plc_screnshot.png)
 
+```markdown
+**Download:** No download necessary, you can play this in your web browser! Go to -> [Plant Life Cycle](https://www.turtlediary.com/game/grow-a-plant.html)
+**Free?:** yes!
+**Game synopsis:** This game requires you to quickly build a system by which you can water and fertilize your plants. 
+**BEST feature:** 
+
+```
+
+
+## Tips below on how to edit this .md file
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
