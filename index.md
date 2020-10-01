@@ -1,6 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to gameplanT 
+#### Supported by the Carnegie Institution for Science
 
-You can use the [editor on GitHub](https://github.com/gameplanT/gameplanT.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here, we bring together resources for fun online learning games oriented toward plant biology and evolution. Each game synopsis includes a description of the game, where you can download for free or purchase the game, and additional info on how fun the game is (subjective pov) and cool features of the game. 
+
+For many of these games you will need Flash Player installed with the browser you use. You can find Flash player installation [here](get.adobe.com/flashplayer/)
+
+### 
+[editor on GitHub](https://github.com/gameplanT/gameplanT.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -25,8 +31,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
