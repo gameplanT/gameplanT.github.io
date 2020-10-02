@@ -17,4 +17,6 @@ In the [Plant Life Cycle](https://www.turtlediary.com/game/grow-a-plant.html) ga
 
 
 
-### Click [here](Imaplant.md) for game ideas from us at Carnegie
+### Click below for game ideas from us at Carnegie
+
+**[Im a plant!](Imaplant.md)**
