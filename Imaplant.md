@@ -1,14 +1,14 @@
-The Dream: 
+# The Dream: 
 
-Justin Krupp, Yunru (Ru) Peng, Will Dwyer, Emily Fryer, Moi, Megan Ruffley
-Sebastian (Seba), Jason Thomas, Bo Xue
+**Justin Krupp, Yunru (Ru) Peng, Will Dwyer, Emily Fryer, Moi, Megan Ruffley
+Sebastian (Seba), Jason Thomas, Bo Xue**
 
 
-“I’m a tree!”  (working title) 
+### “I’m a tree!”  (working title) 
 A video game of being a plant and all its glory. Control processes of plant growth and defense.
 Start out as a plant seed build/grow into a full tree while trying to survive pests, pathogens, droughts, and flood with your friends!
 
-Gameplay
+### Gameplay
 •	Collect resources nitrogen, phosphorus, water, sunlight, and CO2
 •	From simple metabolites, build your plant from various tissues and cell types.
 •	Survive waves of insect pests, plant pathogens, and bad weather.
