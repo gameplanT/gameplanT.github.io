@@ -15,3 +15,6 @@ In the [Plant Life Cycle](https://www.turtlediary.com/game/grow-a-plant.html) ga
 **Game synopsis:** This game requires you to quickly build a system by which you can water and fertilize your plants. 
 **BEST feature:** 
 
+
+
+### Click [here](Imaplant.md) for game ideas from us at Carnegie
